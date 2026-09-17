@@ -2,7 +2,7 @@
 <h3 align="center">DevOps & Cloud Engineer | Automating Infrastructure, Securing Pipelines</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=DevOps+%26+Cloud+Engineer;Building+Scalable+CI%2FCD+Pipelines;Automating+Infrastructure+with+Terraform+%26+Ansible;GitOps+with+Argo+CD+%7C+Kubernetes+%7C+Docker;AWS+%7C+Azure+%7C+DevSecOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=DevOps+%26+Cloud+Engineer;Building+Scalable+CI%2FCD+Pipelines;GitOps+with+Argo+CD+%7C+Kubernetes+%7C+Docker;AWS+%7C+Azure+%7C+DevSecOps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,7 +27,6 @@
 
 I'm a **DevOps & Cloud Engineer** with 1+ years of hands-on experience building and maintaining CI/CD pipelines, managing self-hosted GitHub Actions runners, and automating cloud deployments on **AWS** and **Azure**. I focus on making delivery pipelines faster, more secure, and more reliable — from GitOps-based Kubernetes deployments to DevSecOps pipelines with integrated vulnerability scanning.
 
-- 💼 Currently working as a **DevOps Engineer at Matrix ComSec**, Vadodara
 - 🌱 Deepening my skills in Kubernetes, Terraform, and cloud-native security
 - 🔭 Building end-to-end GitOps workflows with Argo CD across multi-cloud setups
 - 🎓 B.Tech in CSE (Cloud Technology & Information Security) — CGPA 9.67/10
