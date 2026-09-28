@@ -100,9 +100,9 @@ I'm a **DevOps & Cloud Engineer** with 1+ years of hands-on experience building 
 | Project | Description | Tech Used |
 |---|---|---|
 | 🚀 [**GitOps Project on Kubernetes**](https://github.com/JANHWE27/GitOps-Project-on-Kubernetes) | End-to-end GitOps CI/CD pipeline auto-deploying to a KIND cluster on AWS EC2 via Argo CD | GitHub Actions, Docker, Kubernetes, KIND, Argo CD, AWS EC2 |
-| 📄 [**Chat with Your PDF using AWS**](https://github.com/JANHWE27/chat-with-pdf-aws) | AI-powered PDF Q&A app using Retrieval-Augmented Generation (RAG) | Amazon Bedrock, S3, Docker, LangChain, Streamlit |
-| 🏗️ [**Terraform Infrastructure & Static Website**](https://github.com/JANHWE27/terraform-infra-website) | AWS infrastructure provisioned as code, hosting a static website | Terraform, AWS, IaC, HTML, CSS, CI/CD |
-| 🔐 [**Tic Tac Toe – DevSecOps Pipeline**](https://github.com/JANHWE27/tic-tac-toe-devsecops) | React/TypeScript app with a full DevSecOps pipeline — build, scan, deploy | React, TypeScript, GitHub Actions, Docker, Kubernetes, Argo CD, Trivy, Semgrep |
+| 📄 [**Chat with Your PDF using AWS**](https://github.com/JANHWE27/GENERATIVE-AI_Chat_With_Pdf) | AI-powered PDF Q&A app using Retrieval-Augmented Generation (RAG) | Amazon Bedrock, S3, Docker, LangChain, Streamlit |
+| 🏗️ [**Terraform Infrastructure & Static Website**](https://github.com/JANHWE27/Infrastructure-with-terraform) | AWS infrastructure provisioned as code, hosting a static website | Terraform, AWS, IaC, HTML, CSS, CI/CD |
+| 🔐 [**Tic Tac Toe – DevSecOps Pipeline**](https://github.com/JANHWE27/DevSecOps-CICD-Project) | React/TypeScript app with a full DevSecOps pipeline — build, scan, deploy | React, TypeScript, GitHub Actions, Docker, Kubernetes, Argo CD, Trivy, Semgrep |
 
 > 💡 Repo links assume your GitHub repo names match the project titles — update any that don't match your actual URLs.
 
