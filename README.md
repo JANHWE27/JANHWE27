@@ -104,7 +104,7 @@ I'm a **DevOps & Cloud Engineer** with 1+ years of hands-on experience building 
 | 🏗️ [**Terraform Infrastructure & Static Website**](https://github.com/JANHWE27/Infrastructure-with-terraform) | AWS infrastructure provisioned as code, hosting a static website | Terraform, AWS, IaC, HTML, CSS, CI/CD |
 | 🔐 [**Tic Tac Toe – DevSecOps Pipeline**](https://github.com/JANHWE27/DevSecOps-CICD-Project) | React/TypeScript app with a full DevSecOps pipeline — build, scan, deploy | React, TypeScript, GitHub Actions, Docker, Kubernetes, Argo CD, Trivy, Semgrep |
 
-> 💡 Repo links assume your GitHub repo names match the project titles — update any that don't match your actual URLs.
+> 💡 Repo links assume your GitHub repo names match the project titles update any that don't match your actual URLs.
 
 ---
 
